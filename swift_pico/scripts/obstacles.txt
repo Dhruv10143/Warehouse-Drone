@@ -1,3 +1,0 @@
-Aruco ID: [90, 95, 85, 80]
-Obstacles: 2
-Area: 72033.0
